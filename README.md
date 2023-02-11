@@ -1,6 +1,8 @@
-#Retail Management System
+# Retail Management System
 
 [TOC]
+
+
 
 ## introduction
 
