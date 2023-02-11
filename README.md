@@ -18,9 +18,13 @@ A retail management system based on mysql.  Functions are as follows:
 
 
 
-##Usage
 
-###Run Server
+
+## Usage
+
+
+
+### Run Server
 
 1.create a database named retailmanagement in MySQL
 
@@ -35,7 +39,8 @@ A retail management system based on mysql.  Functions are as follows:
 6.python manage.py runserver 8000
 
 
-###Run UI
+
+### Run UI
 
 1.
 cd RetailManagementUI
